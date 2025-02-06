@@ -8,6 +8,10 @@ const Navbar = () => {
 
   const handleNavigate = () => {
     navigate("/t1");
+
+
+
+    
   };
 
   return (
